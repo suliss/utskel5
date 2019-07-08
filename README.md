@@ -7,6 +7,7 @@ Kelompok 5:
 3. Rizqi Nida'ul Lathifah K3517054
 4. Sulis Setiyawati K3517058
 Kelas: B
+**saat dihosting masih terdapat error pada bagian cookie, padahal saat dijalankan di localhost tidak ada error:')
 
 
  
